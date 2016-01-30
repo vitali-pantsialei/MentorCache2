@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Samples\Samples\CachingSolutionsSamples\bin\Debug\CachingSolutionsSamples.dll.config
+C:\Users\user\Desktop\Samples\Samples\CachingSolutionsSamples\bin\Debug\CachingSolutionsSamples.dll
+C:\Users\user\Desktop\Samples\Samples\CachingSolutionsSamples\bin\Debug\CachingSolutionsSamples.pdb
+C:\Users\user\Desktop\Samples\Samples\CachingSolutionsSamples\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\Samples\Samples\CachingSolutionsSamples\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\Samples\Samples\CachingSolutionsSamples\bin\Debug\NorthwindLibrary.dll
+C:\Users\user\Desktop\Samples\Samples\CachingSolutionsSamples\bin\Debug\StackExchange.Redis.dll
+C:\Users\user\Desktop\Samples\Samples\CachingSolutionsSamples\bin\Debug\NorthwindLibrary.pdb
+C:\Users\user\Desktop\Samples\Samples\CachingSolutionsSamples\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\Samples\Samples\CachingSolutionsSamples\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\Samples\Samples\CachingSolutionsSamples\bin\Debug\StackExchange.Redis.pdb
+C:\Users\user\Desktop\Samples\Samples\CachingSolutionsSamples\bin\Debug\StackExchange.Redis.xml
+C:\Users\user\Desktop\Samples\Samples\CachingSolutionsSamples\obj\Debug\CachingSolutionsSamples.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Samples\Samples\CachingSolutionsSamples\obj\Debug\CachingSolutionsSamples.dll
+C:\Users\user\Desktop\Samples\Samples\CachingSolutionsSamples\obj\Debug\CachingSolutionsSamples.pdb

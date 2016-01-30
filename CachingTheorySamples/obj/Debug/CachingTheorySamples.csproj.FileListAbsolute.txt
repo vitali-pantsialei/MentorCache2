@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\Samples\Samples\CachingTheorySamples\bin\Debug\CachingTheorySamples.dll
+C:\Users\user\Desktop\Samples\Samples\CachingTheorySamples\bin\Debug\CachingTheorySamples.pdb
+C:\Users\user\Desktop\Samples\Samples\CachingTheorySamples\obj\Debug\CachingTheorySamples.dll
+C:\Users\user\Desktop\Samples\Samples\CachingTheorySamples\obj\Debug\CachingTheorySamples.pdb
